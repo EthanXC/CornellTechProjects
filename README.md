@@ -1,4 +1,4 @@
-# CornellTechProjects
+# Deserializer
 
 This script is meant to deserialize data that was collected during a simulated Driver/Pedestrian study at Cornell Tech.
 
